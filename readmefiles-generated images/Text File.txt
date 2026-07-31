@@ -1,0 +1,7 @@
+UPDATE THE README FILE 
+AND CREATE SOME IMAGES TO BE USED FOR MY SITE , AND USED FOR VIDEO GENERATION BY AI , , THE VIDEO TO SHOW THEPOWER AND FEATURES OF THE PLUGIN , I WILL MAKE A VIDEO TO ADVERTISE ALL MY PLUGIN , AND THIS plugin IS ON OF THEM
+the ai video genertaion prompt  should never be in the readme file , because it is used in github ,
+remove any prompt for video or any prompt from readme file and write the prompt in a separet text file in the same folder
+ copy images and readme file to a folder with same plugin name inside this folder :
+/home/mohammad/Dev/plugins/read me and imgs/
+ 

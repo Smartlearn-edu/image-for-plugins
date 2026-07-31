@@ -1,0 +1,39 @@
+================================================================================
+                    SMART DASHBOARD - AI VIDEO GENERATION PROMPTS
+================================================================================
+
+Use these prompts with AI Video Generators (Runway Gen-3, Luma Dream Machine,
+Sora, Kling, Pika, etc.) along with the reference images in .github/screenshots/
+to create stunning promotional videos for Smart Dashboard.
+
+--------------------------------------------------------------------------------
+1. HERO OVERVIEW & WELCOME BANNER
+--------------------------------------------------------------------------------
+Reference Image: .github/screenshots/hero_dashboard.jpg (or hero_dashboard.jpg)
+
+Prompt:
+Cinematic slow pan across a futuristic dark-mode web analytics dashboard on a sleek monitor. Glowing purple and cyan progress bars animate smoothly from 0% to 85%. Notification badges pulse softly. A student welcome banner at the top glows with elegant glassmorphism effects. High-end modern educational technology advertisement, 4k resolution, photorealistic, smooth motion.
+
+--------------------------------------------------------------------------------
+2. AT-RISK STUDENT EARLY WARNING SYSTEM
+--------------------------------------------------------------------------------
+Reference Image: .github/screenshots/risk_alert_dashboard.jpg (or risk_alert_dashboard.jpg)
+
+Prompt:
+Close-up screen recording animation of an intelligent student risk monitoring dashboard. Soft orange and crimson early-warning alert badges appear dynamically next to student profiles. Data visualization graphs and attendance charts gently update in real-time. Dark obsidian aesthetic, professional enterprise SaaS interface, depth of field, 60fps cinematic video.
+
+--------------------------------------------------------------------------------
+3. AI MAGIC REPORTS & SQL INSIGHTS HUB
+--------------------------------------------------------------------------------
+Reference Image: .github/screenshots/ai_magic_reports.jpg (or ai_magic_reports.jpg)
+
+Prompt:
+An interactive AI assistant query box on a dark-mode analytics screen glows with an emerald green border. Text is typed in automatically: "Show completion rates for Cloud Security course". Instantly, vibrant 3D data charts, revenue trend graphs, and heatmap cards illuminate on the screen. Sleek modern tech advertisement aesthetic, ultra-sharp detail, cinematic lighting.
+
+--------------------------------------------------------------------------------
+4. FULL ADVERTISEMENT SEQUENCE PROMPT (STORYBOARD COMBINED)
+--------------------------------------------------------------------------------
+Prompt:
+A high-end 60fps promotional product video for an online learning management system called Smart Dashboard. Starts with a dark glassmorphism welcome banner and glowing student progress cards, seamlessly transitioning to a teacher at-risk student monitoring table with subtle crimson early-warning badges, and finishes on an AI assistant natural-language query box generating 3D revenue charts in real-time. Deep obsidian, neon purple, cyan, and emerald accents, professional SaaS commercial, 4k photorealistic.
+
+================================================================================

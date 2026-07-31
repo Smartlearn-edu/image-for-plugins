@@ -1,0 +1,51 @@
+================================================================================
+AI VIDEO GENERATION PROMPTS & ADVERTISING STORYBOARD
+Plugin: Moodle Gap Close (mod_gapcloser)
+Compatible AI Video Generators: Runway Gen-3, Luma Dream Machine, Sora, Kling, Pika
+================================================================================
+
+This document contains high-impact AI video generation prompts and advertising storyboard instructions for your marketing video. Pair these prompts with the corresponding reference images in your folder.
+
+--------------------------------------------------------------------------------
+SCENE 1: THE HERO INTRODUCTION & AUTOMATIC GAP DETECTION
+Reference Image: hero_gap_close.jpg
+--------------------------------------------------------------------------------
+[Video Generation Prompt]:
+Cinematic slow push-in toward a dark-mode Moodle educational dashboard on a crisp 4K display. A glowing violet and emerald banner pulses smoothly, displaying 'Gap Close: Smart Remedial Review Session' and an animated badge showing '3 Knowledge Gaps Detected Across Course Quizzes'. Two interactive cards below light up sequentially as the AI scans past quizzes for incorrect answers: 'Quiz 1: Cell Structure (2 incorrect answers)' and 'Quiz 2: Enzyme Kinetics (1 incorrect answer)'. A sleek gradient button reading 'Start Review Session' glows invitingly. High-end modern educational technology advertisement, photorealistic, 60fps cinematic camera movement, ambient studio lighting.
+
+[Motion & Camera Instructions]:
+- Camera Motion: Smooth 15-degree forward push-in with a subtle downward tilt toward the 'Start Review Session' button.
+- Key Action: Animated scanning highlight passing across the quiz cards, with the badge counter counting up from 0 to 3 in real time.
+- Voiceover Idea: "Stop letting student knowledge gaps slip through the cracks. Gap Close automatically scans every course quiz, finds incorrectly answered questions, and unites them into one focused remedial session."
+
+--------------------------------------------------------------------------------
+SCENE 2: INTERACTIVE REMEDIAL SESSION & QUESTION ENGINE INTEGRATION
+Reference Image: interactive_remedial_quiz.jpg
+--------------------------------------------------------------------------------
+[Video Generation Prompt]:
+Close-up screen recording animation of an interactive remedial quiz session in Moodle Gap Close. A biology multiple-choice question is cleanly displayed in an obsidian glassmorphism card. The student's cursor moves smoothly and selects 'Mitochondria'. Instantly, a glowing emerald green border surrounds the option and an interactive feedback toast animates upward saying 'Correct! Excellent mastery recovery.' The top progress indicator dynamically updates to '2 of 3 Gaps Closed (67% Mastered)'. Professional SaaS edtech UI, ultra-smooth 60fps motion graphics, crisp 4K resolution, shallow depth of field.
+
+[Motion & Camera Instructions]:
+- Camera Motion: Macro focus on the question card and multiple-choice options, panning slightly upward as the feedback toast appears.
+- Key Action: Crisp micro-interaction glow when the correct option is selected, followed by the progress ring animating from 33% to 67%.
+- Voiceover Idea: "Powered by Moodle's native Question Engine, students get immediate, interactive feedback—turning past mistakes into mastered concepts."
+
+--------------------------------------------------------------------------------
+SCENE 3: ZERO GRADEBOOK OVERHEAD & SMART ANALYTICS
+Reference Image: smart_gap_analytics.jpg
+--------------------------------------------------------------------------------
+[Video Generation Prompt]:
+An instructor analytics dashboard for Moodle Gap Close comes alive with glowing cyan and purple charts. A smooth area chart displays a climbing curve labeled '92% Mastery Recovery Rate'. Interactive toggle switches snap smoothly into active position for 'Smart Filtering Active' and '0% Gradebook Overhead — 100% Formative Remedial Practice'. High-end dark mode aesthetic, sleek enterprise LMS interface, cinematic lighting, ultra-sharp typography.
+
+[Motion & Camera Instructions]:
+- Camera Motion: Slow rightward orbital pan across the analytics charts, focusing on the mastery recovery curve.
+- Key Action: The area chart line draws smoothly from left to right as neon data points pulse, while the 0% Gradebook Overhead toggle glows purple.
+- Voiceover Idea: "100% formative practice with zero gradebook overhead. Give your students a stress-free path to mastery with Moodle Gap Close."
+
+--------------------------------------------------------------------------------
+ADVERTISING VIDEO STRUCTURE & PACING TIP
+--------------------------------------------------------------------------------
+1. Hook (0:00 - 0:06): Show Scene 1 (hero_gap_close.jpg animated). Establish the problem: students forget what they missed on past quizzes.
+2. Value Proposition (0:06 - 0:18): Show Scene 2 (interactive_remedial_quiz.jpg animated). Demonstrate immediate feedback using Moodle's Question Engine.
+3. Teacher & Admin Proof (0:18 - 0:26): Show Scene 3 (smart_gap_analytics.jpg animated). Highlight zero gradebook impact, smart filtering, and mastery tracking.
+4. Call to Action (0:26 - 0:30): Display Moodle logo, plugin shields, and "Available now on Moodle Plugins Directory / GitHub".

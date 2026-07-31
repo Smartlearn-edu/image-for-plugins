@@ -1,0 +1,45 @@
+================================================================================
+                    SMART GRADE AI - AI VIDEO GENERATION PROMPTS
+================================================================================
+
+Use these prompts with AI Video Generators (Runway Gen-3, Luma Dream Machine,
+Sora, Kling, Pika, etc.) along with the reference images in .github/screenshots/
+to create stunning promotional videos for Smart Grade AI.
+
+--------------------------------------------------------------------------------
+1. HERO AI GRADING & MULTI-MODEL RUBRIC EVALUATION
+--------------------------------------------------------------------------------
+Reference Image: .github/screenshots/hero_ai_grading.jpg (or hero_ai_grading.jpg)
+
+Prompt:
+Cinematic slow push-in on a dark-mode educational AI grading interface on a high-resolution display. On the screen, a student's argumentative essay is being analyzed in real-time. Glowing cyan and emerald highlight banners animate over key thesis statements and evidence sentences. In the rubric scorecard on the right, score dials smoothly animate from 0/10 to 9/10, while glowing badges for Google Gemini, OpenAI, Claude, and DeepSeek pulse softly as the AI consensus engine evaluates the submission. Ultra-sharp SaaS interface, photorealistic, 4k resolution, smooth cinematic motion.
+
+--------------------------------------------------------------------------------
+2. HUMAN-IN-THE-LOOP TEACHER REVIEW DASHBOARD
+--------------------------------------------------------------------------------
+Reference Image: .github/screenshots/human_review_dashboard.jpg (or human_review_dashboard.jpg)
+
+Prompt:
+Close-up screen recording animation of the 'Pending AI Reviews Dashboard' in Smart Grade AI. A student document (PDF/Word/Code) scrolls smoothly on the left panel. On the right panel, AI draft rubric criteria expand with soft animations, displaying confidence percentages (91%, 89%) and detailed constructive feedback notes. The camera glides down toward the bottom right corner where three glowing action buttons—'APPROVE GRADE', 'REJECT', and 'EDIT RUBRIC'—illuminate with a soft neon cyan and purple glow. Dark obsidian aesthetic, professional enterprise Moodle plugin, 60fps cinematic video.
+
+--------------------------------------------------------------------------------
+3. STUDENT FORMATIVE AI TUTOR & PRELIMINARY FEEDBACK
+--------------------------------------------------------------------------------
+Reference Image: .github/screenshots/student_feedback_hub.jpg (or student_feedback_hub.jpg)
+
+Prompt:
+An interactive student submission page on a sleek laptop display. A mouse cursor glides over and clicks a glowing cyan button labeled 'Check AI Feedback'. Instantly, an elegant glassmorphism 'Preliminary AI Feedback' card pops up and smoothly unfolds. Inside, rubric-based formative suggestions appear with glowing green cards highlighting essay strengths and soft blue cards suggesting areas for refinement before the final submission deadline. Inspiring educational technology commercial, ultra-clean typography, depth of field, cinematic lighting.
+
+--------------------------------------------------------------------------------
+4. MULTI-PROVIDER AI AUTO-FALLBACK & ARCHITECTURE SEQUENCE
+--------------------------------------------------------------------------------
+Prompt:
+An impressive 3D holographic data-flow visualization of Smart Grade AI's Unified AI Provider Engine. Glowing data packets stream from a Moodle assignment node into a central AI hub. When an OpenAI node flashes an orange rate-limit warning, the data packet instantaneously and seamlessly reroutes to a Google Gemini 3.0 Pro node and Moodle Core AI engine without interruption, lighting up emerald green. High-tech isometric dark aesthetic, cybernetic cyan and violet glows, professional enterprise reliability advertisement, 4k photorealistic animation.
+
+--------------------------------------------------------------------------------
+5. FULL ADVERTISEMENT SEQUENCE PROMPT (STORYBOARD COMBINED)
+--------------------------------------------------------------------------------
+Prompt:
+A high-end 60fps promotional product video for a cutting-edge Moodle grading plugin called Smart Grade AI. Begins with a dramatic slow push-in on a dark glassmorphism grading interface where AI rubric scorecards and multi-model badges (Gemini, OpenAI, Claude, DeepSeek) light up in real-time. Seamlessly transitions to a teacher's 'Pending AI Reviews Dashboard' where a user approves an AI-drafted grade with a single click, and concludes with a student clicking 'Check AI Feedback' to reveal glowing formative improvement tips before their submission deadline. Deep obsidian, neon cyan, emerald, and violet accents, state-of-the-art EdTech commercial, 4k photorealistic.
+
+================================================================================

@@ -1,0 +1,39 @@
+================================================================================
+          HTML EXPORT GRADE REPORT - AI VIDEO GENERATION PROMPTS
+================================================================================
+
+Use these prompts with AI Video Generators (Runway Gen-3, Luma Dream Machine,
+Sora, Kling, Pika, etc.) along with the reference images in .github/screenshots/
+to create stunning promotional videos for HTML Export Grade Report for Moodle.
+
+--------------------------------------------------------------------------------
+1. HERO OVERVIEW & STUDENT GRADE REPORT TABLE
+--------------------------------------------------------------------------------
+Reference Image: .github/screenshots/hero_htmlexport.jpg (or hero_htmlexport.jpg)
+
+Prompt:
+Cinematic slow pan across a beautifully formatted student HTML grade report on a modern computer display in crisp light mode with elegant purple gradient headers. Conditional grade badges in vivid green ('Excellent') and blue ('Achieved') softly shimmer as the camera glides across assessment rows. Institutional branding logo is displayed prominently at the top left. High-end modern educational software advertisement, ultra-sharp 4k resolution, photorealistic, 60fps cinematic lighting.
+
+--------------------------------------------------------------------------------
+2. COMPREHENSIVE COLOR CUSTOMIZATION & ADMIN SETTINGS
+--------------------------------------------------------------------------------
+Reference Image: .github/screenshots/color_customization.jpg (or color_customization.jpg)
+
+Prompt:
+A sleek screen recording animation of a Moodle administrator customization dashboard. The camera zooms smoothly into an interactive color picker panel where hex color codes (#0055A4 to #0091FF) are adjusted, smoothly transforming the grade report's header gradient from deep navy blue to bright cyan in real-time. Glowing glassmorphism UI cards, professional enterprise LMS interface, cinematic depth of field, 4k 60fps video.
+
+--------------------------------------------------------------------------------
+3. BULK EXPORT & WORD-COMPATIBLE HTML DOWNLOAD
+--------------------------------------------------------------------------------
+Reference Image: .github/screenshots/bulk_export.jpg (or bulk_export.jpg)
+
+Prompt:
+Close-up dynamic animation of an interactive 'Bulk Download All Students as ZIP' modal on a teacher grading interface. A glowing cyan progress bar smoothly animates from 85% to 100% completion with floating Word (.doc) and standalone HTML document icons appearing with subtle drop shadows. Clean modern typography, sleek shadows, professional educational SaaS advertisement aesthetic, photorealistic detail.
+
+--------------------------------------------------------------------------------
+4. FULL ADVERTISEMENT SEQUENCE PROMPT (COMBINED STORYBOARD)
+--------------------------------------------------------------------------------
+Prompt:
+A high-end 60fps promotional product advertisement for an online learning management system plugin called HTML Export Grade Report for Moodle. Starts with a teacher clicking 'Bulk Export All Students', triggering an elegant glowing progress bar and instant Word-compatible HTML file generation, smoothly transitioning to an administrator customizing purple header gradients and green performance badges in real time, and culminating on a stunning student grade report table displayed on a 4k monitor. Professional educational technology commercial, cinematic lighting, ultra-sharp detail.
+
+================================================================================

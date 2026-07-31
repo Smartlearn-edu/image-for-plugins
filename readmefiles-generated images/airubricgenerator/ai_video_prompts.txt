@@ -1,0 +1,53 @@
+================================================================================
+               AI RUBRIC GENERATOR - AI VIDEO GENERATION PROMPTS
+================================================================================
+
+Use these cinematic prompts with AI Video Generators (Runway Gen-3 Alpha, Luma
+Dream Machine, OpenAI Sora, Kling AI, Pika, Haiper, etc.) along with the reference
+images in .github/screenshots/ to create stunning promotional product videos for
+AI Rubric Generator for Moodle (local_rubricgenerator).
+
+--------------------------------------------------------------------------------
+1. HERO AI RUBRIC GENERATION & BLOOM'S TAXONOMY ALIGNMENT
+--------------------------------------------------------------------------------
+Reference Image: .github/screenshots/hero_ai_rubric_generator.jpg
+
+Prompt:
+Cinematic slow push-in on a futuristic dark-mode Moodle educational dashboard on a crisp 4K display. In the center of the screen, an educator selects 'Bloom's Taxonomy' and sets criteria to '5'. Instantly, glowing holographic grading cards smoothly animate and expand into view, displaying achievement badges for 'Analyze (Level 4)', 'Evaluate (Level 5)', and 'Create (Level 6)' with emerald and neon blue light trails. Soft glowing particles float in the background of a modern digital classroom. Ultra-sharp SaaS interface, photorealistic 8k render, smooth 60fps camera movement, professional EdTech commercial aesthetic.
+
+--------------------------------------------------------------------------------
+2. INTERACTIVE NATURAL LANGUAGE RUBRIC REFINEMENT
+--------------------------------------------------------------------------------
+Reference Image: .github/screenshots/rubric_pilot_testing.jpg
+
+Prompt:
+Close-up screen recording animation of the 'Interactive Rubric Refinement' workspace in Moodle. A cursor clicks into a glowing cyan prompt box at the bottom of the screen and types: 'Make the scoring stricter and add a 20-point criterion for APA 7th referencing.' As the user hits Enter, the glowing rubric criteria cards above smoothly ripple and transform in real-time, updating point values and descriptions with soft purple and emerald highlights. High-end obsidian glassmorphism UI, photorealistic lighting, cinematic depth of field, seamless motion.
+
+--------------------------------------------------------------------------------
+3. PRE-PILOT SUBMISSION TESTING & PDF ANALYZER
+--------------------------------------------------------------------------------
+Reference Image: .github/screenshots/rubric_pilot_testing.jpg
+
+Prompt:
+An impressive split-screen 3D UI animation of AI Rubric Generator's 'Pre-Pilot Submission Testing' engine. On the left panel, a student's PDF research essay is being scanned by a soft cyan optical laser beam, highlighting thesis statements and citations in real time. On the right panel, the AI grading dashboard instantly calculates a predicted grade of '88/100', illuminating matching rubric levels with glowing green checkmarks and displaying constructive AI feedback notes. High-tech educational technology showcase, vibrant dark mode, professional enterprise software advertisement, 4k cinematic resolution.
+
+--------------------------------------------------------------------------------
+4. COURSE-AWARE ASSIGNMENT DESCRIPTION GENERATOR
+--------------------------------------------------------------------------------
+Reference Image: .github/screenshots/assignment_description_generator.jpg
+
+Prompt:
+An elegant 3D isometric animation of Moodle course structure transforming into an assignment specification. Floating holographic course section cards labeled 'Section 1: Fundamentals' and 'Section 4: Case Analysis' glide into a central glowing AI synthesizer icon. In seconds, a complete, beautifully formatted 'Final Project Assignment Description' unfolds on the screen with clear learning objectives, submission guidelines, and an academic tone badge. Obsidian dark theme, neon blue and emerald green accents, high-end SaaS motion graphics, 60fps cinematic product promo.
+
+--------------------------------------------------------------------------------
+5. FULL ADVERTISEMENT COMMERCIAL SEQUENCE (STORYBOARD COMBINED)
+--------------------------------------------------------------------------------
+Reference Images: 
+- .github/screenshots/hero_ai_rubric_generator.jpg
+- .github/screenshots/rubric_pilot_testing.jpg
+- .github/screenshots/assignment_description_generator.jpg
+
+Prompt:
+A high-impact 60-second commercial product video for a groundbreaking Moodle assessment plugin called AI Rubric Generator. Begins with a dramatic cinematic reveal of a dark glassmorphism grading interface where Bloom's Taxonomy rubric criteria cards assemble in real-time with glowing neon blue and purple badges. Seamlessly transitions to a teacher typing a conversational prompt to refine grading strictness, followed by a live optical scan of a student PDF essay that predicts an instant accurate grade of 92/100. Concludes with a celebratory glowing button click saving the rubric directly to Moodle Advanced Grading. Deep obsidian background, vibrant cyan and emerald accents, state-of-the-art EdTech commercial, 4K photorealistic masterpiece.
+
+================================================================================

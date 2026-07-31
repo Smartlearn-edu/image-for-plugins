@@ -1,0 +1,45 @@
+=============================================================================
+AI VIDEO GENERATION PROMPTS & STORYBOARD
+Plugin: Moodle Adaptive Study Plan (mod_adaptiveplan)
+Use these prompts with Runway Gen-3, Luma Dream Machine, OpenAI Sora, Kling, Veo, or Pika to create promotional videos for your website and marketing campaigns.
+=============================================================================
+
+-----------------------------------------------------------------------------
+1. HERO OVERVIEW — STUDENT AI ROADMAP DASHBOARD (hero_adaptive_plan.jpg)
+-----------------------------------------------------------------------------
+Prompt:
+Cinematic widescreen camera pan across a futuristic dark-mode AI educational study plan dashboard on a curved monitor. Glowing neon purple, cyan, and emerald progress bars animate smoothly from 45% to 90%. Interactive study roadmap timeline nodes pulse gently. A student welcome banner at the top displays a streak counter and spaced repetition badges. Premium SaaS educational technology advertisement, 4k resolution, photorealistic, 60fps smooth motion.
+
+
+-----------------------------------------------------------------------------
+2. CONVERSATIONAL AI STUDY COACH & SMART ONBOARDING (ai_coach_onboarding.jpg)
+-----------------------------------------------------------------------------
+Prompt:
+Close-up screen recording animation of a sleek dark-mode AI conversational chat onboarding interface on a modern web app. An intelligent AI study coach dialogue box with glowing purple and cyan accents types out: 'Welcome! How many hours can you study this week?'. The user types '2 hours/day, evenings' and selects 'Data Structures'. Instantly, interactive recommendation cards and a colored calendar study roadmap animate onto the screen. Enterprise SaaS aesthetic, ultra-sharp detail, cinematic lighting.
+
+
+-----------------------------------------------------------------------------
+3. AUTOMATED SPACED REPETITION & RETENTION HUB (spaced_repetition_engine.jpg)
+-----------------------------------------------------------------------------
+Prompt:
+An interactive 3D UI animation of an automated Spaced Repetition engine in a dark-mode learning management system. Glowing neon review timeline bars show Day 1, Day 3, and Day 7 intervals lighting up with 'Aggressive', 'Normal', and 'Light' repetition badges. In the background, vibrant memory retention curves reset upwards as a student checks off a review task. Professional edtech advertisement style, photorealistic, cinematic depth of field.
+
+
+-----------------------------------------------------------------------------
+4. 30-SECOND PROMOTIONAL VIDEO STORYBOARD & SCRIPT
+-----------------------------------------------------------------------------
+Scene 1 (0:00 - 0:06) | The Problem
+- Visual Action: Quick cut showing a cluttered, traditional LMS course page with endless text links. The screen blurs out into dark mode.
+- Voiceover / Caption: "Tired of students feeling overwhelmed by static course pages?"
+
+Scene 2 (0:06 - 0:13) | AI Coach
+- Visual Action: Show the AI Coach Onboarding animation where the student inputs their study hours.
+- Voiceover / Caption: "Meet Adaptive Study Plan — the AI-powered Moodle module that builds custom study roadmaps."
+
+Scene 3 (0:13 - 0:21) | Roadmap UI
+- Visual Action: Dramatic pan across the Student Dashboard, highlighting clickable activity links and live progress bars.
+- Voiceover / Caption: "Personalized daily schedules, smart time estimations, and one-click Moodle activity sync."
+
+Scene 4 (0:21 - 0:30) | Spaced Repetition
+- Visual Action: Transition to the Spaced Repetition Engine showing Day 1, Day 3, and Day 7 review badges lighting up.
+- Voiceover / Caption: "Built-in Spaced Repetition ensures knowledge sticks. Supercharge your Moodle course today."

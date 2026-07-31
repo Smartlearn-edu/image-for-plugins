@@ -1,0 +1,51 @@
+================================================================================
+AI VIDEO GENERATION PROMPTS & ADVERTISING STORYBOARD
+Plugin: Chat with Assignment AI (local_chatwithassignment)
+Compatible AI Video Generators: Runway Gen-3, Luma Dream Machine, Sora, Kling, Pika
+================================================================================
+
+This document contains high-impact AI video generation prompts and advertising storyboard instructions for your marketing video. Pair these prompts with the corresponding reference images in your folder.
+
+--------------------------------------------------------------------------------
+SCENE 1: THE HERO INTRODUCTION & THE TWO-WAY TUTORING PARADIGM
+Reference Image: hero_ai_chat.jpg
+--------------------------------------------------------------------------------
+[Video Generation Prompt]:
+Cinematic slow pan across a futuristic dark-mode Moodle educational platform interface on a sleek 4k monitor. A student's assignment submission is displayed on the left, while an elegant glassmorphism AI Tutor chat pane animates smoothly on the right. Glowing purple and cyan rubric badges pulse softly. The AI Tutor types out personalized, encouraging feedback in real-time. High-end modern educational technology advertisement, photorealistic, 60fps cinematic camera movement, ambient studio lighting.
+
+[Motion & Camera Instructions]:
+- Camera Motion: Smooth 15-degree rightward orbital pan with slight zoom toward the chat pane.
+- Key Action: Text appearing word-by-word in the AI chat bubble as if being streamed live.
+- Voiceover Idea: "Static grading feedback is dead. Turn every Moodle assignment into an interactive, 24/7 Socratic conversation with Chat with Assignment AI."
+
+--------------------------------------------------------------------------------
+SCENE 2: PRECISION RUBRIC BREAKDOWN & ONE-CLICK REFLECTION
+Reference Image: interactive_feedback.jpg
+--------------------------------------------------------------------------------
+[Video Generation Prompt]:
+Close-up screen recording animation of an intelligent student tutoring web interface. A student's cursor clicks a glowing pill button labeled 'How can I improve Organization?'. The AI Tutor instantly breaks down the rubric score from 17/20 to 20/20 with actionable advice, highlighting specific essay paragraphs with glowing cyan accents. Dark obsidian aesthetic, professional enterprise SaaS interface, shallow depth of field, ultra-smooth motion graphics, crisp 4k resolution.
+
+[Motion & Camera Instructions]:
+- Camera Motion: Tight macro focus on the interactive Socratic pill buttons at the bottom of the chat, tilting slightly upward as the AI response renders.
+- Key Action: Micro-interaction glow when the cursor clicks the button, followed by smooth expanding cards showing rubric criteria.
+- Voiceover Idea: "Students don't just see what points they lost—they learn exactly why, and how to master the rubric for next time."
+
+--------------------------------------------------------------------------------
+SCENE 3: ENTERPRISE BUDGET CONTROL & THE 5 CONTEXT LEVELS
+Reference Image: ai_provider_routing.jpg
+--------------------------------------------------------------------------------
+[Video Generation Prompt]:
+An admin dashboard for Moodle AI routing comes alive with glowing cyan and emerald green data nodes. Animated lines route student requests through AI Hub tokens and institutional fallbacks. A sleek interactive selector switches between Context Levels 1 through 5, updating token cost-saving graphs and latency metrics in real-time. Ultra-sharp detail, cinematic lighting, modern tech advertisement aesthetic.
+
+[Motion & Camera Instructions]:
+- Camera Motion: Slow push-in toward the center 'AI Hub Token Routing' visualization, with bokeh lighting in the background.
+- Key Action: Animated data pulses traveling along neon pathways from students to their own BYOK AI Hub tokens, while the '42.1% Cost Drop' graph glows bright green.
+- Voiceover Idea: "Zero budget surprises. With 5-level context control and student-funded AI Hub token routing, you deliver enterprise-grade tutoring at a fraction of the cost."
+
+--------------------------------------------------------------------------------
+ADVERTISING VIDEO STRUCTURE & PACING TIP
+--------------------------------------------------------------------------------
+1. Hook (0:00 - 0:05): Show Scene 1 (hero_ai_chat.jpg animated). Establish the problem of ignored feedback.
+2. Value Proposition (0:05 - 0:15): Show Scene 2 (interactive_feedback.jpg animated). Demonstrate interactive Socratic tutoring and rubric mastery.
+3. Admin & Budget Proof (0:15 - 0:25): Show Scene 3 (ai_provider_routing.jpg animated). Highlight BYOK AI Hub tokens, cost reduction, and Moodle GDPR compliance.
+4. Call to Action (0:25 - 0:30): Display Moodle logo, plugin shields, and "Available now on Moodle Plugins Directory / GitHub".

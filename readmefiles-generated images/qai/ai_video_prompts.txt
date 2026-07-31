@@ -1,0 +1,39 @@
+================================================================================
+                    MOODLE QUIZ AI CHAT (local_qai) - AI VIDEO GENERATION PROMPTS
+================================================================================
+
+Use these prompts with AI Video Generators (Runway Gen-3 Alpha, Luma Dream Machine,
+OpenAI Sora, Kling AI, Pika, HeyGen, etc.) along with the reference images in
+.github/screenshots/ to create stunning promotional videos for Moodle Quiz AI Chat.
+
+--------------------------------------------------------------------------------
+1. HERO PER-QUESTION AI TUTOR ("ASK AI TO EXPLAIN")
+--------------------------------------------------------------------------------
+Reference Image: .github/screenshots/hero_quiz_ai_tutor.jpg (or hero_quiz_ai_tutor.jpg)
+
+Prompt:
+Cinematic slow push-in on an ultra-modern dark-mode Moodle Quiz interface on a widescreen display. A student reviewing their attempt hovers over and clicks a glowing cyan 'Ask AI to Explain' button next to an incorrect multiple-choice question. Instantly, an elegant glassmorphism 'AI Tutor' panel slides in smoothly from the right side of the screen. Inside the panel, soft typing animations reveal step-by-step Socratic hints and conceptual guidance without giving away the answer directly. Vibrant cyan, emerald, and purple neon highlights, professional high-end EdTech SaaS commercial, 4k resolution, 60fps cinematic camera motion.
+
+--------------------------------------------------------------------------------
+2. GRANULAR CONTEXT CONTROL & CONVERSATIONAL TUTOR MODAL
+--------------------------------------------------------------------------------
+Reference Image: .github/screenshots/quiz_ai_modal.jpg (or quiz_ai_modal.jpg)
+
+Prompt:
+Close-up screen recording animation of the 'AI Quiz Tutor' conversational modal in dark mode. A clean dialogue thread scrolls smoothly as an AI tutor explains the nuance behind an incorrect answer. At the top of the glassmorphism modal, three glowing badges—'Granular Context: Level 3 Summary', 'BYOK Student Tokens', and 'GDPR Compliant'—pulse with subtle cyan and gold luminescence. The camera tilts slightly as the student types a follow-up question and presses 'ASK QUIZ TUTOR', showing instantaneous context-aware pedagogical feedback. High-tech educational software aesthetic, sharp modern typography, photorealistic depth of field.
+
+--------------------------------------------------------------------------------
+3. FAIR BYOK ARCHITECTURE & COST-SAVING TOKEN ROUTING
+--------------------------------------------------------------------------------
+Reference Image: .github/screenshots/quiz_ai_routing.jpg (or quiz_ai_routing.jpg)
+
+Prompt:
+An impressive 3D holographic data-flow animation of Moodle Quiz AI Chat's Bring-Your-Own-Token (BYOK) architecture. Glowing cyan data streams flow from a student laptop node into the 'Student AI Hub (BYOK Tokens)', bypassing institutional API billing entirely and lighting up '100% Cost Saved'. A secondary data pipeline shows an authorized user smoothly routing through a secure 'Capability Rules Firewall' into the 'Moodle Core AI Institutional Fallback' gateway. Obsidian cyberpunk aesthetic, vibrant cyan, emerald, and purple neon glows, professional enterprise architecture advertisement, 4k photorealistic 60fps animation.
+
+--------------------------------------------------------------------------------
+4. FULL ADVERTISEMENT SEQUENCE PROMPT (STORYBOARD COMBINED)
+--------------------------------------------------------------------------------
+Prompt:
+A high-end 60fps promotional product commercial for a state-of-the-art Moodle quiz plugin called Moodle Quiz AI Chat (local_qai). Begins with a dramatic cinematic push-in on a student reviewing a Moodle quiz attempt who clicks a glowing 'Ask AI to Explain' button. Seamlessly transitions to a glowing glassmorphism chat modal where an AI tutor provides Socratic, step-by-step conceptual hints without spoiling the final answer. Concludes with an impressive 3D holographic diagram showing 'BYOK Student Tokens' saving 100% of institutional AI API costs while protecting site budgets. Deep obsidian, neon cyan, emerald, and violet accents, world-class EdTech commercial, 4k photorealistic.
+
+================================================================================

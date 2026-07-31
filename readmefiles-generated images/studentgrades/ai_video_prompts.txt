@@ -1,0 +1,51 @@
+================================================================================
+          STUDENT COURSE GRADES REPORT - AI VIDEO GENERATION PROMPTS
+================================================================================
+
+Use these prompts with AI Video Generators (Runway Gen-3, Luma Dream Machine,
+Sora, Kling, Pika, etc.) along with the reference images in .github/screenshots/
+to create stunning promotional videos for the Moodle Student Course Grades Report plugin.
+
+--------------------------------------------------------------------------------
+1. HERO CONSOLIDATED TRANSCRIPT & MULTI-COURSE DASHBOARD
+--------------------------------------------------------------------------------
+Reference Image: .github/screenshots/hero_student_report.jpg (or hero_student_report.jpg)
+
+Prompt:
+Cinematic slow push-in on an ultra-modern dark glassmorphism academic dashboard on a pristine 4K display. On screen, a student's consolidated Moodle transcript report ('Student Course Grades Report') gracefully loads, displaying grades from all enrolled courses simultaneously—Advanced Mathematics (A, 95.5%), Computer Science 101 (A, 95.5%), and Physics II. Hierarchical grade categories expand smoothly with soft animated micro-interactions. In the top right corner, a glowing teal and purple button labeled 'Export All Courses HTML/PDF' illuminates with a subtle neon sheen. High-tech SaaS interface, photorealistic, 60fps cinematic camera movement, depth of field, premium educational technology commercial aesthetic.
+
+--------------------------------------------------------------------------------
+2. AI-POWERED ACADEMIC PERFORMANCE ANALYSIS MODAL
+--------------------------------------------------------------------------------
+Reference Image: .github/screenshots/ai_performance_modal.jpg (or ai_performance_modal.jpg)
+
+Prompt:
+Close-up screen recording animation of a user clicking 'AI Performance Analysis' inside a Moodle student dashboard. Instantly, an elegant obsidian glassmorphism modal dialog pops open with glowing cyan and violet edges. Inside the modal, AI-generated academic insights dynamically type out in real-time, displaying a student overview, key course strengths, areas for growth, and actionable study recommendations across multiple enrolled subjects. The camera glides toward the top right of the modal where two glowing neon action buttons—'PRINT ANALYSIS' and 'DOWNLOAD PDF'—pulse softly. Enterprise LMS elegance, 4K photorealistic rendering, smooth motion.
+
+--------------------------------------------------------------------------------
+3. PARENT PORTAL & MENTOR MULTI-STUDENT EXECUTIVE VIEW
+--------------------------------------------------------------------------------
+Reference Image: .github/screenshots/parent_mentee_dashboard.jpg (or parent_mentee_dashboard.jpg)
+
+Prompt:
+An impressive, high-resolution widescreen interface animation showing the Parent & Mentor Portal view in Moodle. On the left sidebar, a parent smoothly switches between three linked mentee profiles (Sarah, David, and James) with soft card transitions. As James Brown's profile is selected, the main view instantly refreshes to display a cross-course GPA summary (3.2 GPA, 45/60 Credits), progress bars, and category averages. At the bottom of the screen, an illuminated neon cyan button labeled 'GENERATE AI MENTEE PROGRESS REPORT' glows softly. Dark luxury obsidian aesthetic, professional enterprise Moodle plugin showcase, 60fps cinematic video.
+
+--------------------------------------------------------------------------------
+4. ASYNCHRONOUS AI WEBHOOK & EMAIL REPORT ARCHITECTURE
+--------------------------------------------------------------------------------
+Prompt:
+A 3D cybernetic data-flow animation visualizing the plugin's automated AI analysis pipeline. A glowing data packet representing a student's multi-course grade profile travels from a secure Moodle node into an external n8n AI webhook engine. The AI engine processes the structured JSON grade data, highlights academic trends in vibrant emerald green, and smoothly dispatches a finished, beautifully formatted PDF performance report directly to the student's email inbox. Cybernetic teal and violet glows, high-tech isometric dark aesthetic, 4K photorealistic 3D animation.
+
+--------------------------------------------------------------------------------
+5. CUSTOM BRANDING, RTL SUPPORT & WORD-COMPATIBLE EXPORT
+--------------------------------------------------------------------------------
+Prompt:
+A dynamic split-screen product showcase animation. On the left side, the plugin's admin color customization palette rapidly morphs through 18+ color themes, instantly updating the header branding and table styling of a live student report. On the right side, with a single click, the report seamlessly converts into a perfectly formatted, printable Word/PDF document and flips effortlessly into a Right-To-Left (RTL) Arabic layout with zero visual distortion. Clean typography, vibrant neon highlights, state-of-the-art software advertisement, photorealistic 4K render.
+
+--------------------------------------------------------------------------------
+6. FULL ADVERTISEMENT SEQUENCE PROMPT (COMBINED STORYBOARD)
+--------------------------------------------------------------------------------
+Prompt:
+A high-end 60fps promotional product commercial for 'Student Course Grades Report', a cutting-edge Moodle plugin by Smartlearn Education. Begins with a dramatic cinematic push-in on a dark glassmorphism dashboard where a student's grades across ALL enrolled courses are consolidated into a single stunning hierarchical transcript. Seamlessly transitions to an AI Performance Analysis modal opening with glowing cyan and purple accents, showing real-time strengths, study recommendations, and 'Download PDF' controls. Cuts to a parent switching between linked mentee profiles in the Parent Portal, and concludes with an instant Word/PDF export button glowing in neon emerald. Deep obsidian, cyan, and violet palette, masterpiece EdTech commercial, 4K photorealistic.
+
+================================================================================
