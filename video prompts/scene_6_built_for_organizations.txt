@@ -1,0 +1,12 @@
+[BRAND & OVERALL DIRECTION]
+Product: SMART LEARN – An intelligent AI-powered Learning Platform.
+Tone: Apple product launch commercial / Stripe product showcase / Microsoft Fluent Design — minimal, elegant, futuristic, trustworthy, ultra-premium enterprise SaaS.
+Brand Feel: Innovation, Intelligence, Simplicity, Trust, Future of Learning.
+Target Audience: Universities, K-12 Schools, Corporate L&D, Healthcare Institutions, Government Training, Professional Academies.
+Visual Style: Dark obsidian background (#0B0E14), electric blue (#00F0FF), cyan, and subtle purple gradients (#8A2BE2). Glassmorphism UI panels with soft depth and realistic reflections. Floating UI elements, cinematic depth of field, ultra-clean compositions, zero clutter.
+Camera Rules: Smooth cinematic motion only. Slow dolly, orbiting movements, elegant zooms. No shaky camera, no abrupt cuts.
+Hard Constraints: Do NOT show or mention Moodle, LMS, or competitor names. Do NOT use robots, metallic humanoids, or cliché AI imagery. Focus on human success and intelligent UI. Every frame must look like a high-end commercial.
+
+[SCENE 6 SPECIFIC ACTION — BUILT FOR ORGANIZATIONS + CLOSE (0:23 - 0:28)]
+Cinematic 16:9 dissolves through corporate office and university training environments. An organization analytics dashboard expands, showing growth curves and completion metrics with soft cyan highlights. Return to the Smart Learn homepage interface, glowing with refined light. Camera slowly pulls back. Premium typography: "SMART LEARN — The Intelligent Learning Platform", followed by "Learn. Build. Grow.", and a glowing CTA button fading in: "Start Your Learning Journey". Holds for a beat, then fades gracefully to black. Apple keynote finale style, 4K commercial finish.
+Audio/Music: Powerful, clean, uplifting crescendo resolving to a warm ambient hold.

@@ -1,0 +1,12 @@
+[BRAND & OVERALL DIRECTION]
+Product: SMART LEARN – An intelligent AI-powered Learning Platform.
+Tone: Apple product launch commercial / Stripe product showcase / Microsoft Fluent Design — minimal, elegant, futuristic, trustworthy, ultra-premium enterprise SaaS.
+Brand Feel: Innovation, Intelligence, Simplicity, Trust, Future of Learning.
+Target Audience: Universities, K-12 Schools, Corporate L&D, Healthcare Institutions, Government Training, Professional Academies.
+Visual Style: Dark obsidian background (#0B0E14), electric blue (#00F0FF), cyan, and subtle purple gradients (#8A2BE2). Glassmorphism UI panels with soft depth and realistic reflections. Floating UI elements, cinematic depth of field, ultra-clean compositions, zero clutter.
+Camera Rules: Smooth cinematic motion only. Slow dolly, orbiting movements, elegant zooms. No shaky camera, no abrupt cuts.
+Hard Constraints: Do NOT show or mention Moodle, LMS, or competitor names. Do NOT use robots, metallic humanoids, or cliché AI imagery. Focus on human success and intelligent UI. Every frame must look like a high-end commercial.
+
+[SCENE 1 SPECIFIC ACTION — THE HOOK (0:00 - 0:04)]
+Cinematic 16:9 opening shot. Deep obsidian black background (#0B0E14). A soft, glowing white cursor blinks once in the exact center. Elegant, crisp white typography fades in reading "Learning is Changing." Text pauses, then dissolves into fine streams of electric-blue and cyan light particles. The camera surges forward through the glowing particle field into a luminous digital space. Smooth 60fps camera motion, 4K depth of field.
+Audio/Music: Ambient cinematic electronic soundtrack starts with a subtle, atmospheric futuristic pulse and soft sound swell.
