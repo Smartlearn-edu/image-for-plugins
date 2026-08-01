@@ -1,0 +1,16 @@
+[BRAND & OVERALL DIRECTION]
+Product: SMART LEARN – An intelligent AI-powered Learning Platform (Voice-Driven Human Edition).
+Tone: Apple product launch commercial / Stripe product showcase — minimal, elegant, intelligent, trustworthy, and human-centric.
+Brand Feel: Innovation, Intelligence, Simplicity, Trust, Future of Learning.
+Target Audience: Universities, K-12 Schools, Corporate L&D, Healthcare Institutions, Government Training, Professional Academies.
+Visual Style: Dark obsidian background (#0B0E14), electric blue (#00F0FF), cyan, and soft purple accents (#8A2BE2). Glassmorphism UI panels with realistic reflections, cinematic lighting, ultra-clean compositions, zero clutter. Natural inclusion of real people engaged and succeeding.
+Camera Rules: Smooth cinematic fly-throughs, slow dollys, elegant zooms. No shaky camera, no abrupt cuts.
+Voice Direction: Calm, intelligent, slightly warm Apple-style tech-brand narration. Clear, natural pacing, restrained and elegant (not salesy or overly dramatic).
+Music: Subtle atmospheric electronic start → gradual inspirational build → clean, uplifting crescendo.
+Hard Constraints: Do NOT show or mention Moodle, LMS, or competitor names. Do NOT use robots, metallic humanoids, or cliché AI imagery. Keep typography minimal and elegant. Every frame must feel like a high-end commercial.
+
+[SCENE 1 SPECIFIC ACTION — THE HOOK (0:00 - 0:03.5)]
+Cinematic 16:9 opening shot. Deep obsidian black background (#0B0E14). A soft white glowing cursor blinks in the center. Elegant white text fades in: "Learning is Changing." Text dissolves into streams of electric-blue and cyan light particles. The camera accelerates forward through the particles.
+Voiceover (Calm, intelligent, warm): "Learning is changing."
+On-Screen Text: "Learning is Changing."
+Audio/Music: Ambient electronic synth pulse with subtle futuristic sound swell.
