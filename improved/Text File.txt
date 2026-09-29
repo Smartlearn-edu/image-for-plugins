@@ -1,0 +1,11 @@
+adaptiveplan
+airubricgenerator
+case study
+cataloge
+chatwithassignment
+gapcloser
+qai
+smartcoursepage
+smartdashboard
+smartgradeai
+smartprofile

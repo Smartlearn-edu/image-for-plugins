@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/screenshots/banner.jpg" alt="AI Adaptive Study Plan for Moodle - Header Banner" width="100%">
+  <img src=".github/screenshots/0_overview.jpg" alt="AI Adaptive Study Plan for Moodle - Header Banner" width="100%">
 </p>
 
 <p align="center">
@@ -32,26 +32,88 @@ Traditional LMS courses present students with long lists of static links, leavin
 
 ## 🎬 Interface Screenshots & Visual Showcase
 
-### 1. Hero Overview — Student AI Roadmap Dashboard
+### 1. Student AI Roadmap Dashboard & Statistics
 <p align="center">
-  <img src=".github/screenshots/hero_adaptive_plan.jpg" alt="AI Adaptive Study Plan Dashboard" width="90%">
+  <img src=".github/screenshots/0_overview.jpg" alt="AI Adaptive Study Plan Dashboard Overview" width="90%">
 </p>
 
-* **Primary Interface:** The dark-mode glassmorphism dashboard displays the student's personalized study roadmap, completion streak counter, visual progress bars, and tasks organized chronologically (**Today**, **Tomorrow**, **Upcoming**).
+* **Personalized Study Roadmap:** An intuitive dashboard displaying the student's customized study schedule, completion streak counter, and tasks organized chronologically (**Today**, **Tomorrow**, **Upcoming**).
 
-### 2. Conversational AI Study Coach & Smart Onboarding
 <p align="center">
-  <img src=".github/screenshots/ai_coach_onboarding.jpg" alt="Conversational AI Coach Onboarding" width="90%">
+  <img src=".github/screenshots/1_student_plan_statistic.png" alt="Student Plan Statistics & Progress Tracking" width="90%">
 </p>
 
-* **Conversational Onboarding:** Students interact with an AI study coach to define their weekly study availability and target focus areas, dynamically updating the recommended study path in real time.
+* **Analytics & Progress Tracking:** Real-time visual statistics showing completed tasks, remaining activities, study streak milestones, and total estimated study time.
 
-### 3. Automated Spaced Repetition & Retention Hub
+---
+
+### 2. Daily Activity Details & Workload Balancing
 <p align="center">
-  <img src=".github/screenshots/spaced_repetition_engine.jpg" alt="Spaced Repetition & Retention Engine" width="90%">
+  <img src=".github/screenshots/2_plan_details_activities_per_day.png" alt="Plan Details and Activities per Day" width="90%">
 </p>
 
-* **Spaced Repetition Review Timeline:** The built-in memory retention engine schedules review sessions across **Day 1**, **Day 3**, and **Day 7** intervals, with visual tags indicating repetition intensity (**Aggressive**, **Normal**, **Light**).
+* **Granular Activity Breakdown:** Detailed view of daily assignments, quizzes, and reading materials with smart duration estimates and direct hyperlinks to Moodle activities.
+* **Balanced Daily Workload:** Automatically distributes course tasks across available days to prevent cramming and student burnout.
+
+---
+
+### 3. Conversational AI Study Coach & Onboarding
+<p align="center">
+  <img src=".github/screenshots/7_start_chat_with_ai_1.png" alt="Start Chat with AI to Create Plan - Part 1" width="90%">
+</p>
+
+<p align="center">
+  <img src=".github/screenshots/8_start_chat_with_ai_2.png" alt="Start Chat with AI to Create Plan - Part 2" width="90%">
+</p>
+
+* **Interactive Study Consultation:** Students chat naturally with an AI Study Coach to define their weekly availability, exam dates, and personal pacing preferences.
+* **Dynamic Plan Adjustments:** Negotiate deadlines or ask the AI coach to restructure study blocks when schedules change.
+
+---
+
+### 4. Tailored Plan Creation & Weekly Availability
+<p align="center">
+  <img src=".github/screenshots/4_create_plan_options_1.png" alt="Create Plan Options - Step 1" width="90%">
+</p>
+
+<p align="center">
+  <img src=".github/screenshots/5_create_plan_options_2.png" alt="Create Plan Options - Step 2" width="90%">
+</p>
+
+<p align="center">
+  <img src=".github/screenshots/6_choose_hours_per_day.png" alt="Choose Hours per Day" width="90%">
+</p>
+
+* **Modular Scope Selection:** Choose whether to generate a comprehensive plan for **All Course Content** or target specific sections and modules.
+* **Custom Weekly Availability:** Students easily configure their preferred study hours per day and target completion dates.
+
+---
+
+### 5. Calendar Integration & Plan Management
+<p align="center">
+  <img src=".github/screenshots/9_add_to_calendar.png" alt="Add to Calendar Integration" width="90%">
+</p>
+
+<p align="center">
+  <img src=".github/screenshots/3_reset_and_add_to_calendar.png" alt="Reset and Add to Calendar Options" width="90%">
+</p>
+
+* **Moodle Calendar Sync:** Export and synchronize scheduled study sessions directly to the user's Moodle calendar with a single click.
+* **Flexible Plan Reset:** Reset and regenerate the entire study schedule anytime availability or course priorities change.
+
+---
+
+### 6. Teacher & Administrator Configuration
+<p align="center">
+  <img src=".github/screenshots/10_settings_1.png" alt="Plugin Administration and Settings - Part 1" width="90%">
+</p>
+
+<p align="center">
+  <img src=".github/screenshots/11_settings_2.png" alt="Plugin Administration and Settings - Part 2" width="90%">
+</p>
+
+* **Granular Teacher Controls:** Easily configure AI prompt instructions, enable/disable the chat onboarding coach, and customize default planning rules.
+* **Core AI & Custom Field Integration:** Natively connects to Moodle 4.5+ Core AI (`\core_ai\manager`) and maps seamlessly to activity custom fields for estimated time and spaced repetition.
 
 ---
 

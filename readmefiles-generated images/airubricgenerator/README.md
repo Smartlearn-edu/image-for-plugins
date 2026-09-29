@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/screenshots/hero_ai_rubric_generator.jpg" alt="AI Rubric Generator for Moodle - Hero Interface" width="100%">
+  <img src=".github/screenshots/0_overview.jpg" alt="AI Rubric Generator for Moodle - Hero Interface" width="100%">
 </p>
 
 <p align="center">
@@ -30,31 +30,88 @@ Designing comprehensive, fair, and objective grading rubrics is one of the most 
 
 ---
 
-## 🎬 Visual Showcase
+## 🎬 Interface Screenshots & Visual Showcase
 
-### 1. Context-Aware AI Rubric Generation & Framework Alignment
+### 1. Context-Aware AI Rubric Generator & Assignment Integration
 <p align="center">
-  <img src=".github/screenshots/hero_ai_rubric_generator.jpg" alt="AI Rubric Generator Hero Dashboard" width="90%">
+  <img src=".github/screenshots/0_overview.jpg" alt="AI Rubric Generator Hero Dashboard" width="90%">
 </p>
 
-*   **Intelligent Taxonomy Mapping:** Automatically structures grading criteria across pedagogical levels (e.g., *Remember, Understand, Apply, Analyze, Evaluate, Create* for Bloom's Taxonomy).
-*   **Customizable Scales & Tones:** Choose the exact number of criteria, achievement levels, and tone (*Academic, Professional, Encouraging, Direct*) to match your institution's standards.
+*   **Native Assignment Integration:** Seamlessly accessible from any Moodle assignment activity to generate pedagogical grading rubrics and assignment specifications in seconds.
 
-### 2. Pre-Pilot Rubric Testing & Student Submission Analyzer
 <p align="center">
-  <img src=".github/screenshots/rubric_pilot_testing.jpg" alt="Pre-Pilot Rubric Testing & PDF Submission Analyzer" width="90%">
+  <img src=".github/screenshots/1_start.png" alt="Launching AI Rubric Generator from Moodle Assignment" width="90%">
 </p>
 
-*   **Test-Drive Before You Assign:** Upload sample student PDF essays or paste text submissions to see instant predicted grades and criterion-by-criterion level matching.
-*   **Interactive Natural Language Refinement:** Fine-tune draft rubrics conversationally by typing instructions directly into the refinement box before publishing to the assignment grading methods.
+*   **One-Click Launch:** Educators can initiate AI rubric generation or assignment description creation directly from the assignment navigation menu.
 
-### 3. Course-Aware Assignment Description Generator
+---
+
+### 2. Customizable Rubric Parameters & Pedagogical Frameworks
 <p align="center">
-  <img src=".github/screenshots/assignment_description_generator.jpg" alt="Course-Aware Assignment Description Generator" width="90%">
+  <img src=".github/screenshots/2_rubric_options_1.png" alt="Rubric Criteria and Achievement Levels Configuration" width="90%">
 </p>
 
-*   **Course Context Integration:** Analyzes course sections, topics, and activities to generate contextually relevant assignment prompts.
-*   **Flexible Scope & Templates:** Choose between **Full Course** mode (for final projects) or **Selected Sections** mode (for chapter assessments), with pre-built templates for *Research Papers, Case Studies, Presentations, Group Projects, and Practical Exercises*.
+<p align="center">
+  <img src=".github/screenshots/3_rubric_options_2.png" alt="Pedagogical Frameworks and Tone Selection" width="90%">
+</p>
+
+<p align="center">
+  <img src=".github/screenshots/8_additional_options.png" alt="Additional Rubric Generation Options" width="90%">
+</p>
+
+*   **Intelligent Taxonomy Mapping:** Automatically structures grading criteria across pedagogical levels (**Bloom's Taxonomy**, **SOLO Taxonomy**, or **Constructive Alignment**).
+*   **Granular Scale & Tone Controls:** Configure exact criterion counts, achievement levels, and academic tone (*Academic, Professional, Encouraging, Direct*) to match institutional standards.
+
+---
+
+### 3. Interactive Rubric Matrix & Criteria Review
+<p align="center">
+  <img src=".github/screenshots/4_rubric_preview_1.png" alt="Interactive Rubric Preview - Part 1" width="90%">
+</p>
+
+<p align="center">
+  <img src=".github/screenshots/5_rubric_preview_2.png" alt="Interactive Rubric Preview - Part 2" width="90%">
+</p>
+
+*   **Comprehensive Grading Matrix:** Preview generated criteria and scoring descriptors across multiple achievement levels with clear point distributions.
+*   **Word (.docx) & PDF Export:** Export draft rubrics for offline faculty review, syllabus documentation, or departmental archiving.
+
+---
+
+### 4. Conversational Refinement & Pre-Pilot Submission Testing
+<p align="center">
+  <img src=".github/screenshots/6_natural_language_refinement.png" alt="Natural Language Rubric Refinement" width="90%">
+</p>
+
+<p align="center">
+  <img src=".github/screenshots/7_pre_pilot_testing.png" alt="Pre-Pilot Rubric Testing and Student Submission Analyzer" width="90%">
+</p>
+
+*   **Interactive Natural Language Refinement:** Fine-tune draft rubrics conversationally by typing instructions directly into the prompt box (e.g., *"Make the 4th criterion focus on APA referencing"*).
+*   **Test-Drive Before You Assign:** Upload sample student PDF essays or paste text submissions to see instant predicted grades and criterion-by-criterion level matching before publishing to students.
+
+---
+
+### 5. Course-Aware Assignment Description Generator
+<p align="center">
+  <img src=".github/screenshots/9_description_generator.png" alt="Course-Aware Assignment Description Generator Dashboard" width="90%">
+</p>
+
+<p align="center">
+  <img src=".github/screenshots/10_generator_mode_selection.png" alt="Generator Mode Selection - Full Course vs Selected Sections" width="90%">
+</p>
+
+<p align="center">
+  <img src=".github/screenshots/11_description_tone.png" alt="Description Tone Preferences" width="90%">
+</p>
+
+<p align="center">
+  <img src=".github/screenshots/12_assignment_type_templates.png" alt="Professional Assignment Type Templates" width="90%">
+</p>
+
+*   **Course Context Integration:** Analyzes course sections, topics, and activities to generate contextually relevant assignment prompts and learning deliverables.
+*   **Flexible Scope & Templates:** Choose between **Full Course** mode (for final capstone projects) or **Selected Sections** mode (for chapter assessments), with 8 pre-built professional templates (*Research Papers, Case Studies, Presentations, Group Projects, and Practical Exercises*).
 
 ---
 
